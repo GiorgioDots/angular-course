@@ -1,0 +1,1 @@
+[here](https://angular.io/api?type=pipe) you can find the list of buildin pipes
